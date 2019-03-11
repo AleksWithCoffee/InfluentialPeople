@@ -13,5 +13,14 @@ Username<input type ="text">
 Password<input type ="password">
 <input type= "submit" name="ok">
 
+<ul>
+<li>
+Magellan
+</li>
+<li>
+Currie
+</li>
+</ul>
+
 </body>
 </html>
