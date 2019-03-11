@@ -9,11 +9,11 @@
 </head>
 <body>
 <ul>
-<c:forEach var="dupa" items="${lista}">
-<c:if test="${dupa.id==1}">
+<c:forEach var="var" items="${lista}">
+<c:if test="${var.id==1}">
 <li>
-${dupa.id}
-${dupa.getName()}
+${var.id}
+${var.getName()}
 
 </li>
 </c:if>
