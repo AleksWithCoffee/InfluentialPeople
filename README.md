@@ -1,1 +1,1 @@
- # Website of the most influencial people in the history
+ # Website of the most influential people in the history
