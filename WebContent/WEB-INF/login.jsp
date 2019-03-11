@@ -10,6 +10,6 @@
 Hello user, type your name and password to log in.
 Username<input type ="text">
 Password<input type ="password">
-<input type= "submit">
+<input type= "submit" name="ok">
 </body>
 </html>
